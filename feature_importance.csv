@@ -1,69 +1,69 @@
 Feature,Score
-User,124
-Amount,161
-MCC,208
-Cards Issued,9
-Latitude,97
-Longitude,84
-admin code2,107
-Num Credit Cards,78
-merchant_latitude,118
-merchant_longitude,142
+User,179
+Amount,62
+MCC,80
+Cards Issued,38
+Latitude,39
+Longitude,16
+admin code2,19
+Num Credit Cards,102
+merchant_latitude,48
+merchant_longitude,30
 accuracy,0
-Month,53
-DayOfWeek,36
-Day,91
-Hour,142
-DaysSinceAcctOpen,245
-Current Age,112
-DistanceTransactionToMerchant,259
-DirectionTransactionToMerchant,165
-Use Chip__Chip Transaction,33
-Use Chip__Swipe Transaction,7
+Month,54
+DayOfWeek,69
+Day,40
+Hour,119
+DaysSinceAcctOpen,69
+Current Age,50
+DistanceTransactionToMerchant,138
+DirectionTransactionToMerchant,70
+Use Chip__Chip Transaction,29
+Use Chip__Swipe Transaction,17
 Errors?__Bad CVV,0
-Errors?__Bad PIN,30
+Errors?__Bad PIN,125
 "Errors?__Bad PIN,Insufficient Balance",0
 "Errors?__Bad PIN,Technical Glitch",0
 Errors?__Bad Zipcode,0
 "Errors?__Bad Zipcode,Insufficient Balance",0
 "Errors?__Bad Zipcode,Technical Glitch",0
-Errors?__Insufficient Balance,21
+Errors?__Insufficient Balance,7
 "Errors?__Insufficient Balance,Technical Glitch",0
-Errors?__Technical Glitch,4
+Errors?__Technical Glitch,0
 Card Brand__Amex,0
 Card Brand__Discover,0
-Card Brand__Mastercard,9
-Card Brand__Visa,14
-Card Type__Credit,22
-Card Type__Debit,2
-Card Type__Debit (Prepaid),8
-Has Chip__NO,2
-Has Chip__YES,2
+Card Brand__Mastercard,37
+Card Brand__Visa,35
+Card Type__Credit,10
+Card Type__Debit,61
+Card Type__Debit (Prepaid),6
+Has Chip__NO,39
+Has Chip__YES,4
 Card on Dark Web__No,0
-Gender__Female,6
-Gender__Male,1
+Gender__Female,54
+Gender__Male,38
 country code__US,0
 admin name1__Alabama,0
 admin name1__Alaska,0
 admin name1__Arizona,0
-admin name1__Arkansas,25
-admin name1__California,0
+admin name1__Arkansas,0
+admin name1__California,5
 admin name1__Colorado,0
-admin name1__Connecticut,0
+admin name1__Connecticut,2
 admin name1__Delaware,0
 admin name1__District of Columbia,0
-admin name1__Florida,2
-admin name1__Georgia,7
+admin name1__Florida,5
+admin name1__Georgia,8
 admin name1__Hawaii,0
 admin name1__Idaho,0
 admin name1__Illinois,0
-admin name1__Indiana,0
+admin name1__Indiana,7
 admin name1__Iowa,0
 admin name1__Kansas,0
-admin name1__Kentucky,3
+admin name1__Kentucky,8
 admin name1__Louisiana,0
 admin name1__Maine,0
-admin name1__Maryland,1
+admin name1__Maryland,13
 admin name1__Massachusetts,0
 admin name1__Michigan,0
 admin name1__Minnesota,0
@@ -75,22 +75,22 @@ admin name1__Nevada,0
 admin name1__New Hampshire,0
 admin name1__New Jersey,0
 admin name1__New Mexico,0
-admin name1__New York,0
+admin name1__New York,5
 admin name1__North Carolina,0
 admin name1__North Dakota,0
-admin name1__Ohio,18
-admin name1__Oklahoma,6
+admin name1__Ohio,52
+admin name1__Oklahoma,1
 admin name1__Oregon,0
-admin name1__Pennsylvania,0
+admin name1__Pennsylvania,3
 admin name1__Rhode Island,0
-admin name1__South Carolina,10
+admin name1__South Carolina,12
 admin name1__South Dakota,0
-admin name1__Tennessee,12
-admin name1__Texas,6
-admin name1__Utah,4
+admin name1__Tennessee,15
+admin name1__Texas,9
+admin name1__Utah,1
 admin name1__Vermont,0
 admin name1__Virginia,0
-admin name1__Washington,18
+admin name1__Washington,3
 admin name1__West Virginia,0
 admin name1__Wisconsin,0
 admin name1__Wyoming,0
@@ -154,7 +154,7 @@ admin name2__Addison,0
 admin name2__Aiken,0
 admin name2__Alachua,0
 admin name2__Alamance,0
-admin name2__Alameda,13
+admin name2__Alameda,5
 admin name2__Albany,0
 admin name2__Alcorn,0
 admin name2__Allegan,0
@@ -167,7 +167,7 @@ admin name2__Andrew,0
 admin name2__Andrews,0
 admin name2__Androscoggin,0
 admin name2__Angelina,0
-admin name2__Anne Arundel,18
+admin name2__Anne Arundel,22
 admin name2__Anoka,0
 admin name2__Anson,0
 admin name2__Antrim,0
@@ -199,7 +199,7 @@ admin name2__Barren,0
 admin name2__Barron,0
 admin name2__Barry,0
 admin name2__Barton,0
-admin name2__Bartow,0
+admin name2__Bartow,2
 admin name2__Bastrop,0
 admin name2__Bath,0
 admin name2__Bay,0
@@ -222,7 +222,7 @@ admin name2__Berkshire,0
 admin name2__Bernalillo,0
 admin name2__Berrien,0
 admin name2__Bertie,0
-admin name2__Bexar,0
+admin name2__Bexar,8
 admin name2__Bibb,0
 admin name2__Bingham,0
 admin name2__Black Hawk,0
@@ -252,7 +252,7 @@ admin name2__Bristol,0
 admin name2__Bronx,0
 admin name2__Brooks,0
 admin name2__Broome,0
-admin name2__Broward,1
+admin name2__Broward,0
 admin name2__Brown,0
 admin name2__Brunswick,0
 admin name2__Bryan,0
@@ -260,14 +260,14 @@ admin name2__Buchanan,0
 admin name2__Bucks,0
 admin name2__Bullitt,0
 admin name2__Bulloch,0
-admin name2__Buncombe,8
+admin name2__Buncombe,0
 admin name2__Bureau,0
 admin name2__Burke,0
 admin name2__Burleigh,0
 admin name2__Burleson,0
 admin name2__Burlington,0
 admin name2__Burnett,0
-admin name2__Butler,19
+admin name2__Butler,12
 admin name2__Butte,0
 admin name2__Cabarrus,0
 admin name2__Cabell,0
@@ -356,7 +356,7 @@ admin name2__Cleveland,0
 admin name2__Clinton,0
 admin name2__Coahoma,0
 admin name2__Coal,0
-admin name2__Cobb,2
+admin name2__Cobb,0
 admin name2__Cochise,0
 admin name2__Cocke,0
 admin name2__Coconino,0
@@ -373,7 +373,7 @@ admin name2__Columbus,0
 admin name2__Colusa,0
 admin name2__Comal,0
 admin name2__Comanche,0
-admin name2__Contra Costa,1
+admin name2__Contra Costa,2
 admin name2__Converse,0
 admin name2__Conway,0
 admin name2__Cook,0
@@ -389,7 +389,7 @@ admin name2__Cowley,0
 admin name2__Cowlitz,0
 admin name2__Craighead,0
 admin name2__Craven,0
-admin name2__Crawford,13
+admin name2__Crawford,3
 admin name2__Creek,0
 admin name2__Crittenden,0
 admin name2__Cross,0
@@ -400,19 +400,19 @@ admin name2__Curry,0
 admin name2__Custer,0
 admin name2__Cuyahoga,0
 admin name2__Dakota,0
-admin name2__Dallas,12
+admin name2__Dallas,0
 admin name2__Dane,0
 admin name2__Danville (city),0
 admin name2__Dare,0
 admin name2__Dauphin,0
-admin name2__Davidson,2
+admin name2__Davidson,5
 admin name2__Daviess,0
 admin name2__Davis,0
 admin name2__Dawson,0
 admin name2__De Witt,0
 admin name2__DeKalb,0
 admin name2__DeSoto,0
-admin name2__DeWitt,0
+admin name2__DeWitt,21
 admin name2__Dearborn,0
 admin name2__Decatur,0
 admin name2__Delaware,0
@@ -437,7 +437,7 @@ admin name2__Dubois,0
 admin name2__Dubuque,0
 admin name2__Dunn,0
 admin name2__Duplin,0
-admin name2__Dutchess,0
+admin name2__Dutchess,1
 admin name2__Duval,0
 admin name2__Dyer,0
 admin name2__Eagle,0
@@ -470,7 +470,7 @@ admin name2__Fairfield,0
 admin name2__Fannin,0
 admin name2__Faulkner,0
 admin name2__Fauquier,0
-admin name2__Fayette,2
+admin name2__Fayette,1
 admin name2__Fentress,0
 admin name2__Flagler,0
 admin name2__Flathead,0
@@ -480,7 +480,7 @@ admin name2__Fond du Lac,0
 admin name2__Forrest,0
 admin name2__Forsyth,0
 admin name2__Fort Bend,0
-admin name2__Franklin,6
+admin name2__Franklin,1
 admin name2__Frederick,0
 admin name2__Freeborn,0
 admin name2__Fresno,0
@@ -506,7 +506,7 @@ admin name2__Gloucester,0
 admin name2__Glynn,0
 admin name2__Gogebic,0
 admin name2__Goliad,0
-admin name2__Gonzales,39
+admin name2__Gonzales,3
 admin name2__Goodhue,0
 admin name2__Gooding,0
 admin name2__Gordon,0
@@ -524,9 +524,9 @@ admin name2__Grayson,0
 admin name2__Green,0
 admin name2__Greene,0
 admin name2__Greenup,0
-admin name2__Greenville,10
+admin name2__Greenville,1
 admin name2__Greenwood,0
-admin name2__Gregg,0
+admin name2__Gregg,6
 admin name2__Grimes,0
 admin name2__Grundy,0
 admin name2__Guadalupe,0
@@ -548,13 +548,13 @@ admin name2__Haralson,0
 admin name2__Hardeman,0
 admin name2__Hardin,0
 admin name2__Harford,0
-admin name2__Harris,0
+admin name2__Harris,2
 admin name2__Harrison,0
 admin name2__Hartford,0
 admin name2__Harvey,0
 admin name2__Haskell,0
 admin name2__Hawaii,0
-admin name2__Hawkins,0
+admin name2__Hawkins,4
 admin name2__Hays,0
 admin name2__Haywood,0
 admin name2__Henderson,0
@@ -592,7 +592,7 @@ admin name2__Hunt,0
 admin name2__Hunterdon,0
 admin name2__Huntingdon,0
 admin name2__Huntington,0
-admin name2__Huron,0
+admin name2__Huron,27
 admin name2__Hyde,0
 admin name2__Iberia,0
 admin name2__Iberville,0
@@ -612,7 +612,7 @@ admin name2__Itasca,0
 admin name2__Jack,0
 admin name2__Jackson,0
 admin name2__Jasper,0
-admin name2__Jefferson,2
+admin name2__Jefferson,0
 admin name2__Jefferson Davis,0
 admin name2__Jefferson Parish,0
 admin name2__Jenkins,0
@@ -644,7 +644,7 @@ admin name2__Keokuk,0
 admin name2__Kern,0
 admin name2__Kershaw,0
 admin name2__Kewaunee,0
-admin name2__King,11
+admin name2__King,0
 admin name2__King William,0
 admin name2__King and Queen,0
 admin name2__Kingfisher,0
@@ -693,7 +693,7 @@ admin name2__Leon,0
 admin name2__Levy,0
 admin name2__Lewis,0
 admin name2__Lewis and Clark,0
-admin name2__Lexington,2
+admin name2__Lexington,7
 admin name2__Lexington (city),0
 admin name2__Liberty,0
 admin name2__Licking,0
@@ -726,10 +726,10 @@ admin name2__Mahoning,0
 admin name2__Manassas Park (city),0
 admin name2__Manatee,0
 admin name2__Marathon,0
-admin name2__Maricopa,1
+admin name2__Maricopa,0
 admin name2__Marin,0
 admin name2__Marinette,0
-admin name2__Marion,7
+admin name2__Marion,0
 admin name2__Marlboro,0
 admin name2__Marquette,0
 admin name2__Marshall,0
@@ -826,7 +826,7 @@ admin name2__New Castle,0
 admin name2__New Hanover,0
 admin name2__New Haven,0
 admin name2__New London,0
-admin name2__New York,10
+admin name2__New York,18
 admin name2__Newaygo,0
 admin name2__Newberry,0
 admin name2__Newton,0
@@ -843,12 +843,12 @@ admin name2__Noxubee,0
 admin name2__Nueces,0
 admin name2__Nye,0
 admin name2__Oakland,0
-admin name2__Ocean,24
+admin name2__Ocean,2
 admin name2__Oconee,0
 admin name2__Oconto,0
 admin name2__Ogle,0
 admin name2__Ohio,0
-admin name2__Okaloosa,56
+admin name2__Okaloosa,37
 admin name2__Okanogan,0
 admin name2__Okeechobee,0
 admin name2__Oklahoma,0
@@ -920,13 +920,13 @@ admin name2__Portsmouth (city),0
 admin name2__Posey,0
 admin name2__Pottawatomie,0
 admin name2__Pottawattamie,0
-admin name2__Potter,0
+admin name2__Potter,16
 admin name2__Powell,0
 admin name2__Poweshiek,0
 admin name2__Presque Isle,0
 admin name2__Preston,0
 admin name2__Prince Edward,0
-admin name2__Prince George's,6
+admin name2__Prince George's,0
 admin name2__Prince William,0
 admin name2__Providence,0
 admin name2__Pueblo,0
@@ -949,13 +949,13 @@ admin name2__Ravalli,0
 admin name2__Ray,0
 admin name2__Red River,0
 admin name2__Redwood,0
-admin name2__Refugio,0
+admin name2__Refugio,16
 admin name2__Rensselaer,0
 admin name2__Renville,0
 admin name2__Rhea,0
 admin name2__Rice,0
 admin name2__Rich,0
-admin name2__Richland,8
+admin name2__Richland,3
 admin name2__Richmond,0
 admin name2__Ritchie,0
 admin name2__Riverside,0
@@ -981,14 +981,14 @@ admin name2__Rutherford,0
 admin name2__Rutland,0
 admin name2__Sabine,0
 admin name2__Sac,0
-admin name2__Sacramento,1
+admin name2__Sacramento,0
 admin name2__Saginaw,0
 admin name2__Saint Charles,0
 admin name2__Saint Johns,0
 admin name2__Salem,0
 admin name2__Salem (city),0
 admin name2__Saline,0
-admin name2__Salt Lake,10
+admin name2__Salt Lake,0
 admin name2__Saluda,0
 admin name2__Sampson,0
 admin name2__San Bernardino,0
@@ -1004,7 +1004,7 @@ admin name2__Sangamon,0
 admin name2__Sanilac,0
 admin name2__Santa Barbara,0
 admin name2__Santa Clara,0
-admin name2__Santa Cruz,11
+admin name2__Santa Cruz,3
 admin name2__Santa Fe,0
 admin name2__Santa Rosa,0
 admin name2__Sarasota,0
@@ -1015,10 +1015,10 @@ admin name2__Schenectady,0
 admin name2__Schoharie,0
 admin name2__Scioto,0
 admin name2__Scott,0
-admin name2__Sebastian,0
+admin name2__Sebastian,51
 admin name2__Sedgwick,0
 admin name2__Seminole,0
-admin name2__Seneca,0
+admin name2__Seneca,5
 admin name2__Sequatchie,0
 admin name2__Sequoyah,0
 admin name2__Sevier,0
@@ -1075,10 +1075,10 @@ admin name2__Stoddard,0
 admin name2__Strafford,0
 admin name2__Stutsman,0
 admin name2__Suffolk,0
-admin name2__Sullivan,0
+admin name2__Sullivan,2
 admin name2__Summit,6
 admin name2__Sumner,0
-admin name2__Sumter,17
+admin name2__Sumter,1
 admin name2__Surry,0
 admin name2__Susquehanna,0
 admin name2__Sussex,0
@@ -1112,7 +1112,7 @@ admin name2__Tom Green,0
 admin name2__Tompkins,0
 admin name2__Tooele,0
 admin name2__Traill,0
-admin name2__Travis,2
+admin name2__Travis,0
 admin name2__Trempealeau,0
 admin name2__Treutlen,0
 admin name2__Trinity,0
@@ -1123,7 +1123,7 @@ admin name2__Tulsa,0
 admin name2__Tunica,0
 admin name2__Tuolumne,0
 admin name2__Tuscaloosa,0
-admin name2__Tuscarawas,23
+admin name2__Tuscarawas,12
 admin name2__Tuscola,0
 admin name2__Twin Falls,0
 admin name2__Uintah,0
@@ -1158,8 +1158,8 @@ admin name2__Walworth,0
 admin name2__Wapello,0
 admin name2__Ward,0
 admin name2__Ware,0
-admin name2__Warren,17
-admin name2__Warrick,11
+admin name2__Warren,0
+admin name2__Warrick,27
 admin name2__Waseca,0
 admin name2__Washington,0
 admin name2__Washoe,0
@@ -1196,7 +1196,7 @@ admin name2__Will,0
 admin name2__Willacy,0
 admin name2__Williams,0
 admin name2__Williamsburg,0
-admin name2__Williamson,4
+admin name2__Williamson,0
 admin name2__Wilson,0
 admin name2__Winchester (city),0
 admin name2__Windham,0
@@ -1297,7 +1297,7 @@ place name__Angola,0
 place name__Ankeny,0
 place name__Ann Arbor,0
 place name__Anna,0
-place name__Annapolis,0
+place name__Annapolis,11
 place name__Anniston,0
 place name__Annville,0
 place name__Antioch,0
@@ -1337,7 +1337,7 @@ place name__Ash Flat,0
 place name__Ashburn,0
 place name__Ashdown,0
 place name__Asheboro,0
-place name__Asheville,1
+place name__Asheville,0
 place name__Ashland,0
 place name__Ashland City,0
 place name__Ashley,0
@@ -1360,7 +1360,7 @@ place name__Audubon,0
 place name__Augusta,0
 place name__Aurora,0
 place name__Austell,0
-place name__Austin,3
+place name__Austin,12
 place name__Avery,0
 place name__Avilla,0
 place name__Avon,0
@@ -1419,7 +1419,7 @@ place name__Beckemeyer,0
 place name__Becker,0
 place name__Beckville,0
 place name__Bedford,0
-place name__Beech Grove,0
+place name__Beech Grove,14
 place name__Bel Air,0
 place name__Belcamp,0
 place name__Belen,0
@@ -1429,7 +1429,7 @@ place name__Bellaire,0
 place name__Bellefonte,0
 place name__Belleview,0
 place name__Belleville,0
-place name__Bellevue,0
+place name__Bellevue,28
 place name__Bellflower,0
 place name__Bellville,0
 place name__Bellwood,0
@@ -1438,7 +1438,7 @@ place name__Belton,0
 place name__Beltsville,0
 place name__Belvedere Tiburon,0
 place name__Bement,0
-place name__Ben Lomond,0
+place name__Ben Lomond,11
 place name__Bend,0
 place name__Benicia,0
 place name__Bennett,0
@@ -1452,7 +1452,7 @@ place name__Benton City,0
 place name__Benton Harbor,0
 place name__Bentonville,0
 place name__Berea,0
-place name__Berkeley,0
+place name__Berkeley,12
 place name__Berkshire,0
 place name__Berlin,0
 place name__Berlin Heights,0
@@ -1462,7 +1462,7 @@ place name__Bernville,0
 place name__Berrien Springs,0
 place name__Berry Creek,0
 place name__Berthoud,0
-place name__Bethany,0
+place name__Bethany,1
 place name__Bethel,0
 place name__Bethel Park,0
 place name__Bethesda,0
@@ -1476,7 +1476,7 @@ place name__Big Lake,0
 place name__Bigfork,0
 place name__Biggs,0
 place name__Billings,0
-place name__Bingham Canyon,0
+place name__Bingham Canyon,34
 place name__Birdsboro,0
 place name__Birmingham,0
 place name__Bishop,0
@@ -1497,7 +1497,7 @@ place name__Bloomfield Hills,0
 place name__Bloomingburg,0
 place name__Bloomingdale,0
 place name__Bloomington,0
-place name__Bloomville,0
+place name__Bloomville,10
 place name__Blountville,0
 place name__Blue Jay,0
 place name__Blue Lake,0
@@ -1546,7 +1546,7 @@ place name__Brattleboro,0
 place name__Breaux Bridge,0
 place name__Bremen,0
 place name__Bremerton,0
-place name__Brentwood,11
+place name__Brentwood,14
 place name__Brewster,0
 place name__Briceville,0
 place name__Brick,0
@@ -1581,7 +1581,7 @@ place name__Brown City,0
 place name__Brownsboro,0
 place name__Brownsburg,0
 place name__Brownstown,0
-place name__Brownsville,0
+place name__Brownsville,23
 place name__Brownwood,0
 place name__Brunswick,0
 place name__Bryan,0
@@ -1589,7 +1589,7 @@ place name__Bryant,0
 place name__Bryantown,0
 place name__Buchanan,0
 place name__Buckatunna,0
-place name__Bucyrus,0
+place name__Bucyrus,9
 place name__Buda,0
 place name__Budd Lake,0
 place name__Buellton,0
@@ -1609,7 +1609,7 @@ place name__Burnham,0
 place name__Burnsville,0
 place name__Burton,0
 place name__Bush,0
-place name__Bushland,0
+place name__Bushland,11
 place name__Butner,0
 place name__Byron,0
 place name__Cabool,0
@@ -1898,7 +1898,7 @@ place name__Croton On Hudson,0
 place name__Crowley,0
 place name__Crown Point,0
 place name__Crumpler,0
-place name__Cuero,0
+place name__Cuero,1
 place name__Culver City,0
 place name__Cumby,0
 place name__Cupertino,0
@@ -2124,7 +2124,7 @@ place name__Elmont,0
 place name__Elmsford,0
 place name__Elmwood Park,0
 place name__Elyria,0
-place name__Emerson,0
+place name__Emerson,30
 place name__Emeryville,0
 place name__Emmetsburg,0
 place name__Encino,0
@@ -2165,9 +2165,9 @@ place name__Fairbanks,0
 place name__Fairchance,0
 place name__Fairfax,0
 place name__Fairfax Station,0
-place name__Fairfield,5
+place name__Fairfield,2
 place name__Fairmont,0
-place name__Fairview,0
+place name__Fairview,13
 place name__Falfurrias,0
 place name__Fall Creek,0
 place name__Fall River,0
@@ -2192,13 +2192,13 @@ place name__Fernwood,0
 place name__Ferris,0
 place name__Feura Bush,0
 place name__Filion,0
-place name__Finchville,0
+place name__Finchville,8
 place name__Findlay,0
 place name__Finleyville,0
 place name__Firth,0
 place name__Fishers,0
 place name__Fishersville,0
-place name__Fisherville,0
+place name__Fisherville,18
 place name__Fitzgerald,0
 place name__Flagstaff,0
 place name__Fleming Island,0
@@ -2227,7 +2227,7 @@ place name__Fort Gibson,0
 place name__Fort Gratiot,0
 place name__Fort Jones,0
 place name__Fort Knox,0
-place name__Fort Lauderdale,15
+place name__Fort Lauderdale,25
 place name__Fort Leavenworth,0
 place name__Fort Lee,0
 place name__Fort Madison,0
@@ -2239,15 +2239,15 @@ place name__Fort Payne,0
 place name__Fort Pierce,0
 place name__Fort Polk,0
 place name__Fort Scott,0
-place name__Fort Smith,0
+place name__Fort Smith,2
 place name__Fort Towson,0
 place name__Fort Valley,0
-place name__Fort Walton Beach,0
+place name__Fort Walton Beach,28
 place name__Fort Washington,0
 place name__Fort Wayne,0
 place name__Fort Worth,0
 place name__Frankfort,0
-place name__Franklin,3
+place name__Franklin,0
 place name__Franklin Furnace,0
 place name__Franklin Lakes,0
 place name__Franklinville,0
@@ -2302,7 +2302,7 @@ place name__Genesee,0
 place name__Geneseo,0
 place name__Genoa,0
 place name__Gentry,0
-place name__Georgetown,2
+place name__Georgetown,9
 place name__Germantown,19
 place name__Gibsonia,0
 place name__Giddings,0
@@ -2390,7 +2390,7 @@ place name__Greensburg,0
 place name__Greentown,0
 place name__Greenville,0
 place name__Greenwich,0
-place name__Greenwood,0
+place name__Greenwood,5
 place name__Greer,0
 place name__Gresham,0
 place name__Gretna,0
@@ -2439,7 +2439,7 @@ place name__Hampton,0
 place name__Hamtramck,0
 place name__Hancock,0
 place name__Hannawa Falls,0
-place name__Hanover,0
+place name__Hanover,12
 place name__Hanover Park,0
 place name__Harbor City,0
 place name__Hardin,0
@@ -2457,7 +2457,7 @@ place name__Hartselle,0
 place name__Hartshorne,0
 place name__Hartville,0
 place name__Harwich,0
-place name__Harwood,0
+place name__Harwood,29
 place name__Harwood Heights,0
 place name__Hastings,0
 place name__Hatfield,0
@@ -2500,7 +2500,7 @@ place name__Herriman,0
 place name__Hesperia,0
 place name__Hesston,0
 place name__Hewitt,0
-place name__Hialeah,0
+place name__Hialeah,3
 place name__Hiawatha,0
 place name__Hickory,0
 place name__Hicksville,0
@@ -2594,7 +2594,7 @@ place name__Imperial,0
 place name__Imperial Beach,0
 place name__Independence,0
 place name__Indialantic,0
-place name__Indianapolis,1
+place name__Indianapolis,0
 place name__Indianola,0
 place name__Indio,0
 place name__Inglewood,0
@@ -2685,7 +2685,7 @@ place name__Kellyville,0
 place name__Kemp,0
 place name__Kendallville,0
 place name__Kenmare,0
-place name__Kennesaw,0
+place name__Kennesaw,18
 place name__Kennett Square,0
 place name__Kennewick,0
 place name__Kenosha,0
@@ -2716,7 +2716,7 @@ place name__Kingsland,0
 place name__Kingsley,0
 place name__Kingston,0
 place name__Kingwood,0
-place name__Kirkland,0
+place name__Kirkland,24
 place name__Kittanning,0
 place name__Knightdale,0
 place name__Knoxville,0
@@ -2776,7 +2776,7 @@ place name__Landisville,0
 place name__Landrum,0
 place name__Langhorne,0
 place name__Langley,0
-place name__Lanham,0
+place name__Lanham,9
 place name__Lanoka Harbor,0
 place name__Lansdale,0
 place name__Lansing,0
@@ -2825,7 +2825,7 @@ place name__Levering,0
 place name__Levittown,0
 place name__Lewiston,0
 place name__Lewistown,0
-place name__Lexington,9
+place name__Lexington,26
 place name__Libby,0
 place name__Liberty,0
 place name__Liberty Hill,0
@@ -2865,7 +2865,7 @@ place name__Long Beach,0
 place name__Long Grove,0
 place name__Longboat Key,0
 place name__Longton,0
-place name__Longview,0
+place name__Longview,42
 place name__Longville,0
 place name__Longwood,0
 place name__Lonoke,0
@@ -2913,7 +2913,7 @@ place name__Macon,0
 place name__Macungie,0
 place name__Maddock,0
 place name__Madera,0
-place name__Madison,8
+place name__Madison,18
 place name__Madisonville,0
 place name__Magee,0
 place name__Magnolia,0
@@ -2936,7 +2936,7 @@ place name__Mandeville,0
 place name__Manila,0
 place name__Manly,0
 place name__Mannford,0
-place name__Mansfield,0
+place name__Mansfield,9
 place name__Mantua,0
 place name__Many,0
 place name__Maple Grove,0
@@ -3095,7 +3095,7 @@ place name__Montrose,0
 place name__Montross,0
 place name__Moore,0
 place name__Mooresboro,0
-place name__Mooresburg,0
+place name__Mooresburg,13
 place name__Moorestown,0
 place name__Mooresville,0
 place name__Moorhead,0
@@ -3185,7 +3185,7 @@ place name__New Lenox,0
 place name__New Orleans,0
 place name__New Oxford,0
 place name__New Paltz,0
-place name__New Philadelphia,0
+place name__New Philadelphia,1
 place name__New Prague,0
 place name__New Salem,0
 place name__New Sharon,0
@@ -3281,7 +3281,7 @@ place name__Oak Park,0
 place name__Oakboro,0
 place name__Oakdale,0
 place name__Oakfield,0
-place name__Oakland,9
+place name__Oakland,13
 place name__Oakland City,0
 place name__Oakland Gardens,0
 place name__Oaklyn,0
@@ -3393,7 +3393,7 @@ place name__Paragould,0
 place name__Paramount,0
 place name__Paramus,0
 place name__Paris,0
-place name__Park City,0
+place name__Park City,17
 place name__Park Forest,0
 place name__Park Hill,0
 place name__Park Hills,0
@@ -3685,7 +3685,7 @@ place name__Rossville,0
 place name__Roswell,0
 place name__Round Rock,0
 place name__Rowland Heights,0
-place name__Rowlett,0
+place name__Rowlett,34
 place name__Roy,0
 place name__Royal Oak,0
 place name__Ruby,0
@@ -3704,7 +3704,7 @@ place name__Rustburg,0
 place name__Ruther Glen,0
 place name__Rutledge,0
 place name__Sachse,0
-place name__Sacramento,6
+place name__Sacramento,10
 place name__Safford,0
 place name__Saginaw,0
 place name__Sagle,0
@@ -3746,7 +3746,7 @@ place name__Saluda,0
 place name__Samson,0
 place name__San Angelo,0
 place name__San Anselmo,0
-place name__San Antonio,2
+place name__San Antonio,9
 place name__San Benito,0
 place name__San Bernardino,0
 place name__San Bruno,0
@@ -3765,7 +3765,7 @@ place name__San Luis Obispo,0
 place name__San Marcos,0
 place name__San Mateo,0
 place name__San Miguel,0
-place name__San Pablo,21
+place name__San Pablo,33
 place name__San Rafael,0
 place name__San Ramon,0
 place name__San Ysidro,0
@@ -3810,14 +3810,14 @@ place name__Scott City,0
 place name__Scotts Hill,0
 place name__Scotts Valley,0
 place name__Scottsboro,0
-place name__Scottsdale,0
+place name__Scottsdale,22
 place name__Scottsville,0
 place name__Scranton,0
 place name__Seabrook,0
 place name__Seaford,0
 place name__Searcy,0
 place name__Seaside,0
-place name__Seaside Park,0
+place name__Seaside Park,24
 place name__Seattle,0
 place name__Sebastopol,0
 place name__Sebring,0
@@ -3936,7 +3936,7 @@ place name__Sparks,0
 place name__Sparks Glencoe,0
 place name__Sparta,0
 place name__Spartanburg,0
-place name__Spearfish,0
+place name__Spearfish,4
 place name__Spencer,0
 place name__Spirit Lake,0
 place name__Spiro,0
@@ -3948,7 +3948,7 @@ place name__Spring Grove,0
 place name__Spring Hill,0
 place name__Spring Hope,0
 place name__Spring Valley,0
-place name__Springboro,0
+place name__Springboro,22
 place name__Springerville,0
 place name__Springfield,0
 place name__Springfield Gardens,0
@@ -3984,7 +3984,7 @@ place name__Stonewall,0
 place name__Stony Brook,0
 place name__Stoughton,0
 place name__Strafford,0
-place name__Strasburg,0
+place name__Strasburg,21
 place name__Stratford,0
 place name__Strattanville,0
 place name__Strongsville,0
@@ -4009,7 +4009,7 @@ place name__Summersville,0
 place name__Summerville,0
 place name__Summit Argo,0
 place name__Sumner,0
-place name__Sumter,0
+place name__Sumter,23
 place name__Sun City,0
 place name__Sun Valley,0
 place name__Suncook,0
@@ -4043,7 +4043,7 @@ place name__Tarpon Springs,0
 place name__Tarzana,0
 place name__Tatum,0
 place name__Taylor,0
-place name__Taylors,0
+place name__Taylors,31
 place name__Taylorsville,0
 place name__Taylorville,0
 place name__Teachey,0
@@ -4153,7 +4153,7 @@ place name__Van Nuys,0
 place name__Van Voorhis,0
 place name__Vance,0
 place name__Vancleave,0
-place name__Vancouver,4
+place name__Vancouver,16
 place name__Vanderbilt,0
 place name__Venedocia,0
 place name__Venetia,0
